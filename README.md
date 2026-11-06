@@ -11,37 +11,43 @@ To create the solid model from given drawing and section the solid model
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 ## PROCEDURE:
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
-
-![image](https://user-images.githubusercontent.com/113594316/198826239-a3d6ffd5-d409-46b0-ba88-3312e89e9834.png)
-
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198826244-f377f387-16af-4f89-a57d-1808083ce178.png)
-
-5.	Use inspect feature to measure the dimensions of sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198826250-0e2f4985-18d7-4a07-8b1e-9c9fab11ea41.png)
-
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198826257-ccfcfd0c-040a-459e-bb9f-93c375f9177f.png)
-
-7.Use extrude option to convert 3D model from sketch
-
-![image](https://user-images.githubusercontent.com/113594316/198826270-d55912b8-0a02-4b36-acb2-02e9b4b328fd.png)
-
- 8.Use revolve option to convert 2D to 3D.
+1. Firstly, click create sketch and choose the front view, now draw a straight vertical line of length 3520mm and 1501mm and horizontal line at bottom point towards left of length 1366mm and draw a horizontal line of length 721 mm from the top point of vertical line towards right.
  
- ![image](https://user-images.githubusercontent.com/113594316/198826282-7a4844a8-0cb2-4573-8940-9a60356b7d04.png)
+<img width="375" height="372" alt="image" src="https://github.com/user-attachments/assets/92744854-cdd1-4ad7-9db7-9eece9842dee" />
+
+2.Now, from the bottom horizontal line try making a rectangle of length 1366mm and breadth 148mm and from the vertical line of length 1501mm make a rectangle of length 1501mm and breadth 123mm.
+
+<img width="347" height="257" alt="image" src="https://github.com/user-attachments/assets/c4630a10-e2df-43f3-b900-55e5b768cbcd" />
+
+3.Now draw a circle of radius 2261mm and 2113mm from the point where the line of length 721mm ends in the right side.
+
+<img width="315" height="255" alt="image" src="https://github.com/user-attachments/assets/bd826f3d-5d12-4797-97e0-0f261d29aaba" />
+
+4.Now trim the excess sketches which makes it look like a glass structure . also join the arc of the circle.
+
+<img width="232" height="225" alt="image" src="https://github.com/user-attachments/assets/780fd16b-6154-4614-a18f-715fa8bf74ac" />
+
+5. give finish sketch option 
+
+<img width="337" height="180" alt="image" src="https://github.com/user-attachments/assets/0b1de5a5-8160-4324-bc47-708eff587d3a" />
+
+6. select the sketch and give revolve option.
+
+<img width="492" height="317" alt="image" src="https://github.com/user-attachments/assets/14ad3a7f-1661-4939-af3d-c9d18d6cb405" />
+
+7.select fillet option and select the vertical line and horizontal line drag the cursor to 150mm. 
+
+<img width="371" height="172" alt="image" src="https://github.com/user-attachments/assets/7a250554-caf3-4683-9180-b54bef18b974" />
+
 
 ## INPUT:
 
-![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
+<img width="1010" height="707" alt="image" src="https://github.com/user-attachments/assets/25d6dcfd-1fb7-4b9b-8259-7dd4e9ccd4bf" />
+
 
 ## OUTPUT:
+
+<img width="1042" height="782" alt="image" src="https://github.com/user-attachments/assets/1d6ab7af-9979-4b3c-9ee2-c979702b45bc" />
 
 
 ## RESULT:
